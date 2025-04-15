@@ -79,7 +79,7 @@ Cryptocurrency markets are highly volatile and influenced by a variety of factor
 1. Clone the repository:
    ```bash
    git clone https://github.com/RUSHABHS1027/DeepCoin-Smart_Crypto_Sentiment_Analytics.git
-   cd deepcoin
+   cd DeepCoin-Smart_Crypto_Sentiment_Analytics
    ```
 
 2. Set up the environment variables:
@@ -125,7 +125,7 @@ Cryptocurrency markets are highly volatile and influenced by a variety of factor
 1. Clone the repository:
    ```bash
    git clone https://github.com/RUSHABHS1027/DeepCoin-Smart_Crypto_Sentiment_Analytics.git
-   cd deepcoin
+   cd DeepCoin-Smart_Crypto_Sentiment_Analytics
    ```
 
 2. Set up the environment variables:
