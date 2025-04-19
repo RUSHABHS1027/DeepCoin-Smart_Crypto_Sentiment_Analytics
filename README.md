@@ -6,8 +6,8 @@ DeepCoin is an AI-driven platform designed to provide you with actionable insigh
 
 1.  **Clone Repo**:
     ```bash
-    git clone https://github.com/ItsSpirax/DeepCoin
-    cd DeepCoin
+    git clone https://github.com/RUSHABHS1027/DeepCoin-Smart_Crypto_Sentiment_Analytics
+    cd DeepCoin-Smart_Crypto_Sentiment_Analytics
     ```
 
 2.  **Config Env**:
@@ -40,6 +40,8 @@ DeepCoin is an AI-driven platform designed to provide you with actionable insigh
 * **Technical Indicators**: Access crucial technical analysis tools based on historical market data, including SMA, EMA, RSI, MACD, and OBV.
 
     * [![Technical Indicators](./assets/indicators.jpeg)](./assets/indicators.jpeg)
+    * [![Technical Indicators Overview](./assets/Technical_Indicators_Overview.jpeg)](./assets/Technical_Indicators_Overview.jpeg)
+
 * **Price Prediction**: Utilize machine learning models to forecast potential future price movements.
 
     * [![Price Prediction](./assets/prediction.jpeg)](./assets/prediction.jpeg)
