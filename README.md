@@ -39,8 +39,8 @@ DeepCoin is an AI-driven platform designed to provide you with actionable insigh
         [![News Sentiment](./assets/articles.jpeg)](./assets/articles.jpeg)
 * **Technical Indicators**: Access crucial technical analysis tools based on historical market data, including SMA, EMA, RSI, MACD, and OBV.
         [![Technical Indicators](./assets/indicators.jpeg)](./assets/indicators.jpeg)
-        
-        [![Technical Indicators Overview](./assets/Technical_Indicators_Overview.jpeg)](./assets/Technical_Indicators_Overview.jpeg)
+
+    [![Technical Indicators Overview](./assets/Technical_Indicators_Overview.jpeg)](./assets/Technical_Indicators_Overview.jpeg)
 
 * **Price Prediction**: Utilize machine learning models to forecast potential future price movements.
 
